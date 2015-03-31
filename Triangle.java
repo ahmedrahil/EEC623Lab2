@@ -91,8 +91,9 @@ public class Triangle {
 	}
 
 	/**
-	 * set the side2 of the triangle
-	 * Author: Rahil Ahmed
+	 * Set the second side of the triangle
+	 * Using setSide2 named method
+	 * @author: Rahil Ahmed
 	 */
 	public void setSide2(int b){
 		this.side2 = b;
